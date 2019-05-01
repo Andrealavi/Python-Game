@@ -92,7 +92,8 @@
 
             "K" : {
                 "message" : "Pavarini che legge l'Odissea distrae Gambini, cosi' riesci a scappare",
-                "move_to_room" : 2
+                "move_to_room" : 2,
+                "remove_from_inventory" : true
             },
 
             "U" : {
@@ -314,7 +315,8 @@
         "interactions" : {
             "E" : {
                 "message" : "La scopa sembra perfetta per pulire lo sporco... Noti qualcosa nascosto sotto lo sporco",
-                "transform" : "U"
+                "transform" : "U",
+                "remove_from_inventory" : true
             }
         }
     }

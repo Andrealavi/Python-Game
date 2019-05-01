@@ -19,3 +19,10 @@ realizziamo un programma per generare avventure grafiche a terminale.
 - oggetti dell'inventario
 
 - player
+
+
+## Gruppo :
+
+- Giovanni Caroli
+- Luca Garavaldi
+- Andrea Lavino
